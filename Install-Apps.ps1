@@ -60,6 +60,8 @@ winget install "ProtonTechnologies.ProtonVPN"
 winget install "WiresharkFoundation.Wireshark"
 winget install "dnSpyEx.dnSpy"
 
+curl -o x96dbg.zip https://github.com/x64dbg/x64dbg/releases/download/snapshot/snapshot_2024-06-03_21-20.zip
+
 Write-Host "Installed Apps" 
 
 $ohmyposh = Set-Path Join-Path -Path $localAppDataPath -ChildPath "Programs\oh-my-posh\bin"
