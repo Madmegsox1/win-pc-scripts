@@ -45,6 +45,7 @@ winget install "Python.Python.3.8"
 winget install "Docker.DockerDesktop"
 winget install "Microsoft.NuGet"
 winget install "Microsoft.DotNet.SDK.8"
+winget install "Rustlang.Rustup"
 
 winget install "7zip.7zip"
 winget install "Insecure.Nmap"
