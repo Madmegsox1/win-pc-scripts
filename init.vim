@@ -50,6 +50,7 @@ call plug#begin()
 " Static Plugins
 Plug 'tpope/vim-surround'
 Plug 'itchyny/lightline.vim'
+Plug 'OrangeT/vim-csharp'
 
 Plug 'ajmwagar/vim-deus'
 "Plug 'wadackel/vim-dogrun' 
@@ -69,7 +70,7 @@ Plug 'mhinz/vim-signify'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.6' }
 Plug 'udalov/kotlin-vim'
-
+Plug 'ziglang/zig.vim'
 
 call plug#end()
 
