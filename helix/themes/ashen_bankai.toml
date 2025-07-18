@@ -1,0 +1,9 @@
+inherits = "ashen"
+
+
+"string" = "matcha_green"
+"function" = {"fg" = "orange_blaze", modifiers=["italic"]}
+"function.builtin" = {"fg" = "orange_golden", modifiers=["italic"]}
+
+[palette]
+matcha_green = "#69bf64"
